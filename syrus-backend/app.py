@@ -6,7 +6,7 @@ from flask_cors import CORS
 app = Flask(__name__)
 CORS(app)
 
-app.get("/")
+@app.get("/")
 def home():
     return "Syrus Backend Default Route"
 # app.register_blueprint(trade_blueprint, url_prefix="/trade")
