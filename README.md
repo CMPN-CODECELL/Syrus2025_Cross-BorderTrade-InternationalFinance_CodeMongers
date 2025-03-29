@@ -17,15 +17,6 @@ An AI-driven Trade Profiler that optimizes global trade with:
 ✅ Tariff & Sanction Analysis – Provides real-time trade insights.
 ✅ Optimal Supplier Selection – Ranks suppliers based on cost & compliance.
 
-🚀 Key Features
-HS Code Extraction: AI-based classification of products for accurate tariff calculations.
-
-Supplier Data Retrieval: Fetches supplier information, including country and pricing.
-
-Tariff & Sanction Analysis: Displays trade restrictions and costs for each supplier.
-
-Automated Supplier Selection: Uses AI to rank suppliers based on cost-effectiveness and compliance.
-
 🎯 Innovation & Impact
 💡 Automated HS Code Extraction – Reduces errors and speeds up trade classification.
 💡 AI-Driven Supplier Matching – Ensures businesses find the best trade partners.
