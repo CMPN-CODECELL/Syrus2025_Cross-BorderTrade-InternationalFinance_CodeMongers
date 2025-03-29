@@ -1,4 +1,4 @@
-📌 Overview
+📌 Overview:
 Global trade is often slow, costly, and risky due to manual invoice processing, unexpected tariffs, and supplier risks. Our AI-powered solution streamlines international trade by automating product analysis, risk assessment, and supplier selection.
 
 🔍 Problem Statement
