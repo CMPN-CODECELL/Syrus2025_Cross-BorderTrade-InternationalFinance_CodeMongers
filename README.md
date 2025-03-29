@@ -1,5 +1,41 @@
-﻿# Syrus2025_Cross-BorderTrade-InternationalFinance_CodeMongers
-After the feedback and mentoring round, we implemented PII masking in the Invoice Agent to safeguard personal data and enhance security, as recommended by our mentors. Additionally, we developed a RAG container containing data related to HS codes, product details, and product categories, integrating it into the Invoice Agent for improved analysis of HS codes and product classifications. Furthermore, we initiated the development of two new agents: the Supplier Agent and the Compliance Check Agent.
-![image](https://github.com/user-attachments/assets/9a73426d-58cf-4f71-9c9b-ab2b47518af9)
+📌 Overview
+Global trade is often slow, costly, and risky due to manual invoice processing, unexpected tariffs, and supplier risks. Our AI-powered solution streamlines international trade by automating product analysis, risk assessment, and supplier selection.
 
-![image](https://github.com/user-attachments/assets/50e2a16a-898f-470e-a783-6af5e80bb5a5)
+🔍 Problem Statement
+Traditional trade processes face significant inefficiencies:
+
+⏳ Delays: Manual invoice processing slows shipments.
+
+💰 Unexpected Costs: Unclear tariffs and duties increase expenses.
+
+⚠️ Supplier Risks: Lack of structured supplier risk assessment.
+
+💡 Our Solution
+An AI-driven Trade Profiler that optimizes global trade with:
+✅ HS Code Extraction – Automates classification of products.
+✅ Supplier Data Retrieval – Identifies suppliers & pricing.
+✅ Tariff & Sanction Analysis – Provides real-time trade insights.
+✅ Optimal Supplier Selection – Ranks suppliers based on cost & compliance.
+
+🚀 Key Features
+HS Code Extraction: AI-based classification of products for accurate tariff calculations.
+
+Supplier Data Retrieval: Fetches supplier information, including country and pricing.
+
+Tariff & Sanction Analysis: Displays trade restrictions and costs for each supplier.
+
+Automated Supplier Selection: Uses AI to rank suppliers based on cost-effectiveness and compliance.
+
+🎯 Innovation & Impact
+💡 Automated HS Code Extraction – Reduces errors and speeds up trade classification.
+💡 AI-Driven Supplier Matching – Ensures businesses find the best trade partners.
+💡 Real-Time Trade Risk Assessment – Provides up-to-date compliance & cost insights.
+💡 End-to-End Optimization – A comprehensive AI solution for global trade.
+
+
+🏗 Project Architecture
+
+![image](https://github.com/user-attachments/assets/40813dfd-1300-4c4a-93c0-9287392af5ed)
+
+
+
